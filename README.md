@@ -1,2 +1,2 @@
-# sid
-Repositório dedicado aos estudos de sistemas distribuido.
+# SID
+Repositório dedicado aos estudos de sistemas distribuídos.
